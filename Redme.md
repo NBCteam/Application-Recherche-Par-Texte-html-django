@@ -5,3 +5,8 @@ By NOURI Aimene - BOUHADDA Wail - CHAKFI Ahmed
 
       @DEV_WEB
       @EST_SidiBennour_GI
+
+NBC mean our team;
+N: NOURI Aimene.
+B: BOUHADDA Wail.
+C: CHAKFI Ahmed.
