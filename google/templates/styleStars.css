@@ -1,29 +1,8 @@
 
-ion-content.content-setting{
-    --ion-background-color:  rgba(12, 16, 63, 0.712);
-}
-
-ion-toolbar.toolbar-setting{
-
---ion-background-color:  rgba(24, 28, 77, 0.5);
-
-}
-
-
-ion-item.item-setting{
-    --ion-background-color:rgba(255, 255, 255, 0.445);
-    box-shadow: 0px 14px 25px rgba(63, 40, 40, 0.842); 
-    width: 50%;
-    height: 6%;
-    margin-left: 25%;
-    margin-top: 3%;
-    border-radius: 40px;
-}
-
 html {
     height: 100%;
     overflow: hidden;
-    background: radial-gradient(ellipse at bottom, #1b2735 0%,#090a0f 100%);
+    
 }
 
 #stars {
@@ -593,4 +572,5 @@ html {
 }
 
 
-    
+
+
