@@ -54,7 +54,7 @@ ROOT_URLCONF = 'google.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': ['templates/'],
+        'DIRS': ['C:/Users/Ahmed/Documents/GitHub/Application-Recherche-Par-Texte-ionic-django/google/templates/src/app/home/'],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
